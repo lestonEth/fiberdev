@@ -1,0 +1,6 @@
+{
+  "name": "FiberDev Studio",
+  "description": "A high-performance browser-based IDE and dashboard for Go Fiber development, including a simulated local node, interactive file explorer, real-time logging, and Gemini-powered coding assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
